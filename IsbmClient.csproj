@@ -71,7 +71,6 @@
     <Compile Include="Clients\ISBMChannelManagementServiceClient.cs" />
     <Compile Include="Clients\ISBMConsumerPublicationServiceClient.cs" />
     <Compile Include="Clients\ISBMConsumerRequestServiceClient.cs" />
-    <Compile Include="ISBMNotificationService.cs" />
     <Compile Include="Clients\ISBMProviderPublicationServiceClient.cs" />
     <Compile Include="Clients\ISBMProviderRequestServiceClient.cs" />
     <Compile Include="Faults\Namespace.cs" />
@@ -89,9 +88,6 @@
     <Compile Include="Data\RemoveSecurityTokensResponse.cs" />
     <Compile Include="Data\RequestMessage.cs" />
     <Compile Include="Data\ResponseMessage.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="example.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
