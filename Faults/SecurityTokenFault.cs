@@ -8,7 +8,7 @@ namespace IsbmClient
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.ComponentModel.DesignerCategoryAttribute("code")]
     [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true, Namespace="http://www.openoandm.org/ws-isbm/")]
-    public partial class ChannelFault
+    public partial class SecurityTokenFault
     {
     }
 }

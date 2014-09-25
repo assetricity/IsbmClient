@@ -3,7 +3,7 @@ namespace IsbmClient
     
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
-    public interface IISBMProviderPublicationServiceChannel : IISBMProviderPublicationService, System.ServiceModel.IClientChannel
+    public interface IConsumerPublicationServiceChannel : IConsumerPublicationService, System.ServiceModel.IClientChannel
     {
     }
 }
