@@ -13,6 +13,6 @@ The example config file and NotificationService are placed in the `Examples` dir
 
 ## License
 
-Copyright 2013 [Assetricity, LLC](http://assetricity.com)
+Copyright 2014 [Assetricity, LLC](http://assetricity.com)
 
 ISBM Client is released under the MIT License. See [LICENSE](https://github.com/assetricity/IsbmClient/blob/master/LICENSE) for details.
